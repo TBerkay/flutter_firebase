@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994800903183",
+    "project_id": "firedeneme-e51cd",
+    "storage_bucket": "firedeneme-e51cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994800903183:android:210d936d8644a0f16bef7a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994800903183-7k78ocme6vqkmgke8ci58ksmu9cfluu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwKEeNt3c615cj500EbB00UqP-QYd2hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994800903183-7k78ocme6vqkmgke8ci58ksmu9cfluu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
